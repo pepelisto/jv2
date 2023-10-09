@@ -8385,14 +8385,14 @@ div.cs-select span {
   background-position: center center;
   position: absolute;
   top: 0;
-  max-height: 30px;
+  max-height: 200px;
   right: 0;
   bottom: 0;
 }
 @media screen and (max-width: 480px) {
   .feature-full-2col .f-hotel .image {
     position: relative;
-    height: 200px;
+    /*height: 200px;*/
   }
 }
 .feature-full-2col .f-hotel .image, .feature-full-2col .f-hotel .desc {
