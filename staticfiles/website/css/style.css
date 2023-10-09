@@ -8385,7 +8385,7 @@ div.cs-select span {
   background-position: center center;
   position: absolute;
   top: 0;
-  max-height: 30px;
+  max-height: 200px;
   right: 0;
   bottom: 0;
 }
